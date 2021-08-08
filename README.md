@@ -1,2 +1,3 @@
 # mastodon-broken-emoji-cache-workaround
-いつしかのバージョンのupgrade storage-schemaで絵文字キャッシュが破壊されたやつの修復スクリプト
+
+いつしかのバージョンの upgrade storage-schema で絵文字キャッシュが破壊されたやつの修復スクリプト
